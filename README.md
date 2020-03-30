@@ -23,12 +23,6 @@ Link to the website: https://coza500plus.herokuapp.com/
 - SEO Optimization
 - ES2015+
 
-## How to run?
-
-1. `cd pagetify`
-2. `npm install`
-3. `npm start`
-
 ### Check out my website!
 
 http://bartzalewski.com
