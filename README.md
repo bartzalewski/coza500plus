@@ -4,6 +4,8 @@ This is my version of website https://coza500plus.pl/, which is a project made b
 
 Link to the website: https://coza500plus.herokuapp.com/
 
+<img alt="screenshot" src="https://i.imgur.com/Yfz7pzP.jpg">
+
 ## What kind of technologies did I use?
 
 - React.js
