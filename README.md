@@ -25,6 +25,6 @@ Link to the website: https://coza500plus.herokuapp.com/
 - SEO Optimization
 - ES2015+
 
-### Check out my website!
+## Follow me!
 
-http://bartzalewski.com
+[Website](https://www.bartzalewski.com) • [Instagram](https://www.instagram.com/bart.code) • [YouTube](https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ)
